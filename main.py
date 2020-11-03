@@ -25,4 +25,4 @@ if (covidData != None):
             app_icon = None,
             timeout  = 50
         )
-        time.sleep(60*60*4)
+        time.sleep(100*100*4)
